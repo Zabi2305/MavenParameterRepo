@@ -12,10 +12,10 @@ public class TestngTest {
 		
 		
 		
-		System.out.println(URL);
+		
 		System.out.println(userName);
 		System.out.println(password);
-		System.out.println(browser);
+		
 	}
 	
 	@Test
