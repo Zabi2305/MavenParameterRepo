@@ -9,7 +9,7 @@ public class TestngTest {
 		String browser = System.getProperty("browser");
 		String userName = System.getProperty("username");
 		 String password = System.getProperty("password");
-		String URL = System.getProperty("url");
+		
 		
 		
 		System.out.println(URL);
