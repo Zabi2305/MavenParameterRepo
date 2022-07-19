@@ -8,11 +8,10 @@ public class TestngTest {
 	public void testCase1Test() {
 		String browser = System.getProperty("browser");
 		String userName = System.getProperty("username");
-		 
+		 String password = System.getProperty("password");
 		
 		
 		
-		System.out.println(userName);
 		
 		
 	}
