@@ -1,11 +1,13 @@
 package com.tyss.sangamesh.datadriventesting;
 
 import org.openqa.selenium.WebDriver;
+import org.testng.annotations.Test;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class BrowserTest {
 	
+	@Test
 	public void browser() {
 		
 		WebDriver driver=null;
@@ -28,6 +30,8 @@ public class BrowserTest {
 		else if (BROWSER.equalsIgnoreCase("edge")) {
 			driver=WebDriverManager.edgedriver().create();
 		}
+		
+		System.out.println("hiiiiiiii");
 		
 	}
 	
