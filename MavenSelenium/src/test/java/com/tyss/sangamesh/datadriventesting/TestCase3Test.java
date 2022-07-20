@@ -20,9 +20,4 @@ public class TestCase3Test {
 	public void testYantra4Test() {
 		System.out.println("TestYantra 4");
 	}
-	@Test
-	public void testYantra5Test() {
-		System.out.println("TestYantra 5");
-	}
-
 }
