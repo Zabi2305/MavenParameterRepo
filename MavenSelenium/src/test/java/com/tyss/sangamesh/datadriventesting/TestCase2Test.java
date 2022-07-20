@@ -7,7 +7,6 @@ public class TestCase2Test {
 	@Test(priority=5)
 	public void lionTest() {
 		System.out.println("Lion Is The King of Forest");
-		System.out.println("hi");
 	}
 	@Test(priority=-1)
 	public void elephentTest() {
