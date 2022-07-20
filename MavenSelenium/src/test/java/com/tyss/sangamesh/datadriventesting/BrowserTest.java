@@ -16,7 +16,7 @@ public class BrowserTest {
 	    String BROWSER = System.getProperty("browser");
 	    
 		
-	/*	//Execute chrome browser
+	    //Execute chrome browser
 		if (BROWSER.equalsIgnoreCase("chrome")) {
 			driver=WebDriverManager.chromedriver().create();
 		}
@@ -32,7 +32,7 @@ public class BrowserTest {
 		}
 		
 		System.out.println("hiiiiiiii");
-		*/
+		
 	}
 	
 
