@@ -31,7 +31,7 @@ public class BrowserTest {
 			driver=WebDriverManager.edgedriver().create();
 		}
 		
-		System.out.println("hiiiiiiii");
+		System.out.println("Best Of Luck !");
 		
 	}
 	
