@@ -11,6 +11,7 @@ public class TestCase2Test {
 	@Test(priority=-1)
 	public void elephentTest() {
 		System.out.println("Elephent is the king of forest");
+		System.out.println("Elephent is the Queen of forest");
 	}
 	@Test(priority=3)
 	public void tigerTest() {
